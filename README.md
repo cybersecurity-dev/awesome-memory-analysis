@@ -1,6 +1,6 @@
 <div align="center">
 
-# **`Awesome`** Memory [Analysis](https://wikipedia.org/wiki/Memory_forensics) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Memory](https://wikipedia.org/wiki/Computer_memory) [Analysis](https://wikipedia.org/wiki/Memory_forensics) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
