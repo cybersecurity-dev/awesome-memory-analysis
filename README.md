@@ -24,6 +24,11 @@
 ---
 ---
 
+## Tools
+* [LibVMI](https://libvmi.com/) - [LibVMI](https://github.com/libvmi/libvmi) is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine by viewing its memory, trapping on hardware events, and accessing the vCPU registers. This is called virtual machine introspection.
+* [memflow](https://memflow.github.io/) - physical memory introspection [framework](https://github.com/memflow/memflow).
+* [Volatility](https://volatilityfoundation.org/) - An advanced memory forensics [framework](https://github.com/volatilityfoundation/volatility3).
+
 
 ##
 
